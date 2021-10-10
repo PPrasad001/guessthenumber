@@ -1,0 +1,8 @@
+.score {
+  color: white;
+  margin-left: 30%;
+  margin-bottom: 100%;
+  display: inline-block;
+  size: 1rem;
+  position: absolute;
+}

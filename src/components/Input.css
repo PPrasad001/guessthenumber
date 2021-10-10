@@ -1,0 +1,40 @@
+.formDiv {
+  text-align: center;
+  display: inline-block;
+  margin-left: 20rem;
+  height: 5rem;
+}
+
+input {
+  background: none;
+  border: 4px solid #eee;
+  color: white;
+  font-size: 2rem;
+  width: 10rem;
+  text-align: center;
+  display: block;
+}
+
+button {
+  margin-top: 10%;
+  background-color: #eee;
+  border-radius: 100%;
+  border-color: snow;
+  border: 1px;
+  color: #222;
+  font-size: 1rem;
+  padding: 1rem 1rem;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover {
+  background-color: #ccc;
+}
+
+.restart {
+  margin-left: 20rem;
+  margin-bottom: 10rem;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+}

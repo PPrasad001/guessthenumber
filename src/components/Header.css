@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+  color: white;
+  margin: 0;
+  height: 10rem;
+  margin-bottom: 7rem;
+}
+
+.hiddenNumber {
+  background: #eee;
+  color: #333;
+  font-size: 3rem;
+  width: 7rem;
+  padding: 1rem 0rem;
+  position: relative;
+  margin: auto;
+}
+
+.message {
+  font-size: 1.25rem;
+  position: relative;
+  right: 275px;
+  top: 40px;
+}
